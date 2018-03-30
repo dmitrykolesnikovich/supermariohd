@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Blocks.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Charasters.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEngine.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometry.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Items.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMap.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\External\TinyXml2\tinyxml2.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SuperMarioGame.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Blocks.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Charasters.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Items.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="SuperMarioGame.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\External\TinyXml2\tinyxml2.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{75603754-67fc-4b83-963c-9684e9bd5430}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{e61bd168-e8a5-4044-bd85-3799f32bb530}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
